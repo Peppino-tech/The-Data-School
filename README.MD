@@ -1,4 +1,4 @@
-# Global EV Stock Growth Analysis (2010–2023)
+# Global EV Market Analysis (2010–2023)
 
 This project analyses global electric vehicle (EV) adoption trends between 2010 and 2023, with a focus on **China**, **Europe**, and the **United States**.
 
